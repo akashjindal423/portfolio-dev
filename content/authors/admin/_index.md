@@ -1,24 +1,24 @@
 ---
 # Display name
-name: Michael Vahn
+name: Akash Jindal
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
+- url : "files/cv1.pdf"
   label : "Download Resume"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: IoT & Cloud Consultant
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Infosys
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,21 +51,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:akashjindal423@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Akashduet
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/akashjindal423
+
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCHoxsULQgN6kFh_9MKJJCfQ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -77,8 +81,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Passionate, value-driven Consultant with 4+ years of experience assisting in delivering innovative solutions in IoT and Cloud domain. Experienced in providing architectural solutions for projects, provide technology consultation, assist in defining scope and sizing of work, and implementing the solutions with the objective of providing high quality and value-adding consulting solutions to customers.
+A blend of hands-on coding with extensive Agile/Scrum experience makes me suitable for technical and techno-functional roles across various domains. 
 
-![reviews](../../img/certifacates.jpg)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+
+With experience in various fields, Akash Jindal has been awarded on various achivements, be it big or small. 

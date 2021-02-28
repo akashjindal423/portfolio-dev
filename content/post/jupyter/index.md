@@ -54,10 +54,7 @@ gallery_item:
 ---
 
 
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+
 
 
 
@@ -67,53 +64,25 @@ Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-fl
 
 
 
-```python
-print("Welcome to academia!")
-```
-
-    Welcome to academia!
+Hello
 
 
 ## Install Python and Jupyter
 
-[Install Anaconda](https://www.anaconda.com/distribution/#download-section) which includes Python 3 and Jupyter notebook.
-
-Otherwise, for advanced users, install Jupyter notebook with `pip3 install jupyter`.
+Hello.
 
 ## Create a new blog post [as usual](https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post)
 
-Run the following commands in your Terminal, substituting `<MY_WEBSITE_FOLDER>` and `my-post` with the file path to your academia website folder and a name for your blog post (without spaces), respectively:  
-
-```bash
-cd <MY_WEBSITE_FOLDER>
-hugo new  --kind post post/my-post
-cd <MY_WEBSITE_FOLDER>/content/post/my-post/
-```
+Hello
 
 ## Create or upload a Jupyter notebook
 
-Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (*New > Python Notebook*) or upload a notebook.
+Hello
 
-```bash
-jupyter notebook
-```
+## Before Conclusion
 
-## Convert notebook to Markdown
+Hello 
 
-```bash
-jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+## Concluding Remarks
 
-# Copy the contents of Untitled.md and append it to index.md:
-cat Untitled.md | tee -a index.md
-
-# Remove the temporary file:
-rm Untitled.md
-```
-
-## Edit your post metadata
-
-Open `index.md` in your text editor and edit the title etc. in the [front matter](https://sourcethemes.com/academic/docs/front-matter/) according to your preference.
-
-To set a [featured image](https://sourcethemes.com/academic/docs/managing-content/#featured-image), place an image named `featured` into your post's folder.
-
-For other tips, such as using math, see the guide on [writing content with academia](https://sourcethemes.com/academic/docs/writing-markdown-latex/). 
+Hello 

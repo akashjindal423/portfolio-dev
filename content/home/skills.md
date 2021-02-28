@@ -15,27 +15,51 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "cloud-upload-alt"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
+  name = "Cloud Computing"
+  parcent = "85%"
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
+  name = "IT-Consulting"
+  parcent = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "charging-station"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
+  name = "IoT"
+  parcent = "80%"
   
 [[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
+  icon = "business-time"
+  icon_pack = "fas"
+  name = "Business Analysis "
   parcent = "95%"
+
+[[feature]]
+  icon = "connectdevelop"
+  icon_pack = "fab"
+  name = "Kubernetes & Docker + Docker Swarm"
+  parcent = "60%"
+
+[[feature]]
+  icon = "exchange-alt"
+  icon_pack = "fas"
+  name = "DevOps (Jenkins, Azure DevOps)"
+  parcent = "70%"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "RDBMS (MSSQL, NoSQL)"
+  parcent = "75%"
+
+[[feature]]
+  icon = "vr-cardboard"
+  icon_pack = "fas"
+  name = "Augmented/Virtual  Reality"
+  parcent = "85%"
 
 +++

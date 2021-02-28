@@ -18,36 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Business Developer Intern"
+  company = "FitScoop.com"
+  company_url = "www.fitscoop.com"
+  location = "Chandigarh"
+  date_start = "2016-06-01"
+  date_end = "2016-12-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Website and App Development 
+  * Pan India Delivery Management 
+  * Onboarding Suppliers and Customer Management
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
-[[experience]]
-  title = "Professor"
-  company = "University Y"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = "2016-12-30"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Senior Systems Engineer"
+  company = "Infosys Ltd"
+  company_url = "www.infosys.com"
+  location = "Bangalore"
+  date_start = "2016-12-12"
+  date_end = "2020-05-30"
+  description = """ 
+  Responsibilities include:
   
+  * iOS App Developement 
+  * Springboot App Development
+  * Augmented Reality Development 
+  * Microsoft Azure Publishing-Subscription Service 
+  """
+
+   [[experience]]
+  title = "Associate Consultant"
+  company = "Infosys Ltd"
+  company_url = "www.infosys.com"
+  location = "Chandigarh"
+  date_start = "2020-07-01"
+  date_end = ""
+  description = """ 
+  Responsibilities include:
+  
+  * IoT & Test Automation Consultant
+  * Requirement Gathering
+  * Pre and Post Product Launch Testing Strategies
+  * Quality Assurance
+  * Customer/Market Research
+  """  
+
+
 +++

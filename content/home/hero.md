@@ -42,6 +42,25 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Akash Jindal** and I'm a **Associate Consultant** specializing in **Business Development** within **Niche Domains**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+-----
+PROFESSIONAL IS NOT A LABEL YOU GIVE YOURSELF 
+
+IT'S A DESCRIPTION YOU HOPE OTHERS WILL APPLY TO YOU 
+<!-- My System
+
+PURSUE PASSIONS, NOT PAYCHECKS
+
+BE CRAFTY, LOVABLE, SYSTEMATIC, AND RELENTLESS
+
+DON'T TAKE YOURSELF TOO SERIOUSLY
+
+LEARN EVERYDAY
+
+BELIEVE IN CHANGE
+
+PRIORITIZE THE CUSTOMER
+
+INVEST IN IDEAS THAT MATTER -->
+ 
