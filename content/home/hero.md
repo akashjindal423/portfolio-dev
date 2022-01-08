@@ -42,7 +42,7 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Akash Jindal** and I'm a **Associate Consultant** specializing in **Business Development** within **Niche Domains**
+## My name is **Akash Jindal** and I'm a **Associate Consultant ++** specializing in **Business Development** within **Niche Domains**
 
 -----
 PROFESSIONAL IS NOT A LABEL YOU GIVE YOURSELF 
