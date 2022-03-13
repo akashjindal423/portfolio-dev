@@ -17,23 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Business Developer Intern"
-  company = "FitScoop.com"
-  company_url = "www.fitscoop.com"
-  location = "Chandigarh"
-  date_start = "2016-06-01"
-  date_end = "2016-12-01"
-  description = """
-  Responsibilities include:
-  
-  * Website and App Development 
-  * Pan India Delivery Management 
-  * Onboarding Suppliers and Customer Management
-  """
+
 
 [[experience]]
   title = "Senior Systems Engineer"
+  company = "Infosys Ltd"
+  company_url = "www.infosys.com"
+  location = "Chandigarh"
+  date_start = "2016-12-12"
+  date_end = "2020-05-30"
+  description = """ 
+  Responsibilities include:
+  
+  * iOS App Developement 
+  * Springboot App Development
+  * Augmented Reality Development 
+  * Microsoft Azure Publishing-Subscription Service 
+  """
+[[experience]]
+  title = "Systems Engineer"
   company = "Infosys Ltd"
   company_url = "www.infosys.com"
   location = "Bangalore"
@@ -47,12 +49,11 @@ date_format = "Jan 2006"
   * Augmented Reality Development 
   * Microsoft Azure Publishing-Subscription Service 
   """
-
    [[experience]]
   title = "Associate Consultant"
   company = "Infosys Ltd"
   company_url = "www.infosys.com"
-  location = "Chandigarh"
+  location = "Reading, United Kingdom"
   date_start = "2020-07-01"
   date_end = ""
   description = """ 

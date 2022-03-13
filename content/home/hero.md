@@ -42,12 +42,13 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Akash Jindal** and I'm a **Associate Consultant 60 days ++--** specializing in **Business Development** within **Niche Domains**
+## Hi, My name is **Akash Jindal** and I'm an **Associate Consultant** specializing in **Quality Assurance** & **Automation Testing** having worked in Gaming, Energy and Digital Agriculture domains. 
 
 -----
+BE STUBBORN ON VISION BUT FLEXIBLE ON DETAILS
+<!-- -----
 PROFESSIONAL IS NOT A LABEL YOU GIVE YOURSELF 
-
-IT'S A DESCRIPTION YOU HOPE OTHERS WILL APPLY TO YOU 
+IT'S A DESCRIPTION YOU HOPE OTHERS WILL APPLY TO YOU  -->
 <!-- My System
 
 PURSUE PASSIONS, NOT PAYCHECKS

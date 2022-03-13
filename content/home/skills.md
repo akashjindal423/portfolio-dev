@@ -17,20 +17,20 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "cloud-upload-alt"
   icon_pack = "fas"
-  name = "Cloud Computing"
+  name = "Cloud"
   parcent = "85%"
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
-  name = "IT-Consulting"
+  name = "Quality Assurance"
   parcent = "90%"  
   
 [[feature]]
   icon = "charging-station"
   icon_pack = "fas"
-  name = "IoT"
-  parcent = "80%"
+  name = "Automation Testing"
+  parcent = "100%"
   
 [[feature]]
   icon = "business-time"
@@ -48,13 +48,13 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   icon = "exchange-alt"
   icon_pack = "fas"
   name = "DevOps (Jenkins, Azure DevOps)"
-  parcent = "70%"
+  parcent = "90%"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "RDBMS (MSSQL, NoSQL)"
-  parcent = "75%"
+  parcent = "90%"
 
 [[feature]]
   icon = "vr-cardboard"

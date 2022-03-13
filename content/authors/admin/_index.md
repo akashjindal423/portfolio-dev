@@ -81,9 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Passionate, value-driven Consultant with 4+ years of experience assisting in delivering innovative solutions in IoT and Cloud domain. Experienced in providing architectural solutions for projects, provide technology consultation, assist in defining scope and sizing of work, and implementing the solutions with the objective of providing high quality and value-adding consulting solutions to customers.
-A blend of hands-on coding with extensive Agile/Scrum experience makes me suitable for technical and techno-functional roles across various domains. 
+Passionate, value-driven Consultant with 5+ years of experience assisting in delivering innovative solutions in various IT domains - Banking, Energy, Retail. Experienced in Manual & Automation Testing in both BDD &TDD methodologies along with a flair for adapting to new software technologies by the virtue of a self-starter attitude. Also, 12 months of experience in Business Analyst roles assisting in defining the scope and sizing of work, listing functional specifications while ensuring compliance. 
 
+A blend of hands-on coding with extensive Agile/Scrum experience makes me suitable for technical and techno-functional roles across various domains.
 
-
-With experience in various fields, Akash Jindal has been awarded on various achivements, be it big or small. 
