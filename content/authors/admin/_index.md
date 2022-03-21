@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Akash Jindal
-avatar_image: "user-full.png"
+avatar_image: "user-3.png"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: IoT & Cloud Consultant
+role: Consultant
 
 # Organizations/Affiliations
 organizations:
@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Passionate, value-driven Consultant with 5+ years of experience assisting in delivering innovative solutions in various IT domains - Banking, Energy, Retail. Experienced in Manual & Automation Testing in both BDD &TDD methodologies along with a flair for adapting to new software technologies by the virtue of a self-starter attitude. Also, 12 months of experience in Business Analyst roles assisting in defining the scope and sizing of work, listing functional specifications while ensuring compliance. 
+Passionate, value-driven Consultant with 5+ years of experience assisting in delivering innovative solutions in various IT domains - Banking, Energy, Retail. A certified Professioanl Scrum Product Owner & Azure Solutions Architect Expert with experience in Manual & Automation Testing in both BDD &TDD methodologies along with a flair for adapting to new software technologies by the virtue of a self-starter attitude. 
 
 A blend of hands-on coding with extensive Agile/Scrum experience makes me suitable for technical and techno-functional roles across various domains.
 

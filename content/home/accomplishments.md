@@ -18,18 +18,20 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "Infosys"
-  organization_url = "https://www.infosys.com"
-  title = "Infosys Certified IoT Developer"
-  url = ""
-  certificate_url = ""
-  date_start = "2018-10-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+
 
   [[item]]
   organization = "IBM"
+  organization_url = "https://www.ibm.org"
+  title = "IBM Certified Solution Advisor – DevOps V1"
+  url = "https://www.youracclaim.com/badges/ab38acc8-6b36-4860-8870-dce5c331f68c/public_url"
+  certificate_url = "https://www.youracclaim.com/badges/ab38acc8-6b36-4860-8870-dce5c331f68c/public_url"
+  date_start = "2017-06-13"
+  date_end = ""
+  description = "This IT professional can clearly explain the benefits and underlying concepts of DevOps, and has practical experience of implementing DevOps processes and solutions for clients. This certification holder can  advise stakeholders on how to adopt DevOps, how to overcome barriers, and how to realize the business benefits of DevOps. They can also demonstrate how the leading industry, Open and IBM solution offerings can help customers realize these benefits"
+
+  [[item]]
+  organization = "Scrum.Org"
   organization_url = "https://www.ibm.org"
   title = "IBM Certified Solution Advisor – DevOps V1"
   url = "https://www.youracclaim.com/badges/ab38acc8-6b36-4860-8870-dce5c331f68c/public_url"
@@ -43,7 +45,7 @@ date_format = "Jan 2006"
   [[item]]
   organization = "Microsoft"
   organization_url = "https://www.microsoft.com"
-  title = "AZ-303 & AZ-304 : Microsoft Azure SolutionsArchitect Expert"
+  title = "AZ-303 & AZ-304 : Microsoft Azure Solutions Architect Expert"
   url = "https://www.credly.com/badges/48a867bd-31f7-45f1-b588-22ac451a0c02/linked_in_profile"
   certificate_url = "https://www.credly.com/badges/48a867bd-31f7-45f1-b588-22ac451a0c02/linked_in_profile"
   date_start = "2021-07-07"
@@ -60,14 +62,6 @@ date_format = "Jan 2006"
   date_end = "2019-06-28"
   description = "For supporting and contributing towards project with dedication. This was awared to me post my contribution in Infosys labs"
   
-[[item]]
-  organization = "Infosys"
-  organization_url = "https://www.infosys.com"
-  title = "Infosys Certified Global Agile Developer"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-07-01"
-  date_end = "2019-12-21"
-  description = ""
+
 
 +++

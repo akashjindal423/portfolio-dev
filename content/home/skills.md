@@ -41,8 +41,8 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "connectdevelop"
   icon_pack = "fab"
-  name = "Kubernetes & Docker + Docker Swarm"
-  parcent = "60%"
+  name = "Scrum Product Ownership"
+  parcent = "90%"
 
 [[feature]]
   icon = "exchange-alt"

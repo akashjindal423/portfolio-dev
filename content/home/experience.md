@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   description = """ 
   Responsibilities include:
   
-  * IoT & Test Automation Consultant
+  * Product Backlog Creation
   * Requirement Gathering
   * Pre and Post Product Launch Testing Strategies
   * Quality Assurance
