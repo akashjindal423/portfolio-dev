@@ -45,6 +45,6 @@ hero_media = "user-2.jpg"
 ## Hi, My name is **Akash Jindal** and I'm an **Consultant** specializing in **Product Ownership** & **Quality Assurance** having worked in Financial, Gaming, Energy and Digi-Agri- domains. 
 
 -----
-BE STUBBORN ON VISION BUT FLEXIBLE ON DETAILS
+BE STUBBORN ON VISION BUT FLEXIBLE ON DETAILS 
 
  
