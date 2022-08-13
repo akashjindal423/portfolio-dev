@@ -42,7 +42,7 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## Hi, My name is **Akash Jindal** and I'm an **Consultant** specializing in **Product Management** & **Quality Assurance** having worked in Financial, Gaming, Energy and Digi-Agri- domains. 
+## Hi, My name is **Akash Jindal** and I'm an **Consultant** specializing in **Product Management** & **Quality Assurance &** having worked in Financial, Gaming, Energy and Digi-Agri- domains. 
 
 -----
 BE STUBBORN ON VISION BUT FLEXIBLE ON DETAILS 
