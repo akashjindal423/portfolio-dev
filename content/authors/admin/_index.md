@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Akash Jindal
-avatar_image: "user-3.png"
+avatar_image: "user-3.jpg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -14,35 +14,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Consultant
+role: Product Owner
 
 # Organizations/Affiliations
 organizations:
 - name: Infosys
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Should the user's education and interests be displayed?
 display_education: false
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -85,4 +85,4 @@ Passionate, value-driven Consultant with 6 years of experience assisting in deli
 
 A blend of hands-on coding with extensive Agile/Scrum experience makes me suitable for techno-functional roles across various domains.
 
-Nominated among top 5% of consultants among 3500 applications in Infosys; 2 times awarded for dedication towards work and management of teams; GMAT 730 scorer. 
+Nominated among top 5% of consultants among 3500 applications in Infosys; 2 times awarded for dedication towards work and management of teams; GMAT1 730 scorer. 
