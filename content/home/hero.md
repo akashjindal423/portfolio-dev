@@ -42,9 +42,9 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## Hi, My name is **Akash Jindal** and I'm an **Consultant** specializing in **Product Management** & **Quality Assurance &** having worked in Financial, Gaming, Energy and Digi-Agri- domains. 
+## Hi, My name is **Akash Jindal** and I'm a **Product Manager** & **Quality Assurance Consultant** who is a strong believer in diverse, cross-functional and empowered teams building and running products that people love. 
 
 -----
-BE STUBBORN ON VISION BUT FLEXIBLE ON DETAILS 
+Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
 
  

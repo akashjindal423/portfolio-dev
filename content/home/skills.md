@@ -15,6 +15,12 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "charging-station"
+  icon_pack = "fas"
+  name = "Product Management"
+  parcent = "100%"
+
+[[feature]]
   icon = "cloud-upload-alt"
   icon_pack = "fas"
   name = "Cloud"
@@ -26,11 +32,6 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
   name = "Quality Assurance"
   parcent = "90%"  
   
-[[feature]]
-  icon = "charging-station"
-  icon_pack = "fas"
-  name = "Automation Testing"
-  parcent = "100%"
   
 [[feature]]
   icon = "business-time"
@@ -47,14 +48,14 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "exchange-alt"
   icon_pack = "fas"
-  name = "DevOps (Jenkins, Azure DevOps)"
-  parcent = "90%"
+  name = "DevOps"
+  parcent = "70%"
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "RDBMS (MSSQL, NoSQL)"
-  parcent = "90%"
+  name = "SQL"
+  parcent = "75%"
 
 [[feature]]
   icon = "vr-cardboard"

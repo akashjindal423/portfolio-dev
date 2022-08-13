@@ -20,51 +20,54 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Senior Systems Engineer"
+  title = "Technology Analyst"
   company = "Infosys Ltd"
   company_url = "www.infosys.com"
-  location = "Chandigarh"
-  date_start = "2016-12-12"
-  date_end = "2020-05-30"
+  location = "Bangalore, India"
+  date_start = "2016-12-26"
+  date_end = "2021-03-31"
   description = """ 
   Responsibilities include:
   
+  * Created use cases and developed UML diagrams - activity, sequence, and class - using Visio 
   * iOS App Developement 
-  * Springboot App Development
-  * Augmented Reality Development 
+  * Springboot Backend services Development
+  * Augmented Reality Development - Designed End to End Creative and Technical Architecture Design
   * Microsoft Azure Publishing-Subscription Service 
+  * Collaborated with Agri-domain consultants (SME) to translate business knowledge to technical user stories
   """
-[[experience]]
-  title = "Systems Engineer"
-  company = "Infosys Ltd"
-  company_url = "www.infosys.com"
-  location = "Bangalore"
-  date_start = "2016-12-12"
-  date_end = "2020-05-30"
+ 
+   [[experience]]
+  title = "Technical Product Owner"
+  company = "______"
+  company_url = "www.dyson.co.uk"
+  location = "Bristol, United Kingdom"
+  date_start = "2022-09-01"
+  date_end = ""
   description = """ 
   Responsibilities include:
   
-  * iOS App Developement 
-  * Springboot App Development
-  * Augmented Reality Development 
-  * Microsoft Azure Publishing-Subscription Service 
-  """
+  * Scrum Product Ownership
+  * ____ Link App - Feature contribution and Improvement
+  * Collaboration - UI/UX Designers and Embedded Teams
+  * Quality Assurance
+  * Customer/Market Research
+  """ 
+
    [[experience]]
   title = "Associate Consultant"
   company = "Infosys Ltd"
   company_url = "www.infosys.com"
   location = "Reading, United Kingdom"
-  date_start = "2020-07-01"
-  date_end = ""
+  date_start = "2021-04-02"
+  date_end = "2022-08-25"
   description = """ 
   Responsibilities include:
   
-  * Product Backlog Creation
-  * Requirement Gathering
+  * Scrum Product Ownership - Accelerated the delivery of critical capabilities in the digital transformation journey
+  * Product Backlog Creation & Requirement Gathering
+  * Facilitated regulatory compliance implementation in the area of data privacy and data security requirements.
   * Pre and Post Product Launch Testing Strategies
-  * Quality Assurance
-  * Customer/Market Research
-  """  
-
-
+  * Quality Assurance - Validated and ensured Data Migration process of records though Python Pandas Automation scripts and Microsoft Playwright Automation
+  """ 
 +++
