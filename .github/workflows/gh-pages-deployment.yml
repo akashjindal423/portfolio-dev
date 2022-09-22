@@ -18,7 +18,7 @@ jobs:
       run: git submodule update --init --recursive                
 
     - name: Install Ruby Dev                     
-      run: sudo apt-get install ruby-dev
+      run: sudo gem install rouge -v 3.30.0
 
     - name: Install AsciiDoctor and Rouge
       run: sudo gem install gem install asciidoctor rouge
