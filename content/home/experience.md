@@ -39,7 +39,7 @@ date_format = "Jan 2006"
  
    [[experience]]
   title = "Technical Product Owner"
-  company = "______"
+  company = "DYSON"
   company_url = "www.dyson.co.uk"
   location = "Bristol, United Kingdom"
   date_start = "2022-09-01"
@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Scrum Product Ownership
-  * ____ Link App - Feature contribution and Improvement
+  * Dyson Link App - Feature contribution and Improvement
   * Collaboration - UI/UX Designers and Embedded Teams
   * Quality Assurance
   * Customer/Market Research
