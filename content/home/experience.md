@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   """
  
    [[experience]]
-  title = "Technical Product Owner"
+  title = "Technical Product Owner "
   company = "DYSON"
   company_url = "www.dyson.co.uk"
   location = "Bristol, United Kingdom"
