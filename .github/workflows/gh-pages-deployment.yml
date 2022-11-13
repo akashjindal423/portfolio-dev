@@ -10,7 +10,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
     - uses: actions/checkout@v1  
 
@@ -18,10 +18,10 @@ jobs:
       run: git submodule update --init --recursive                
 
     - name: Install Ruby Dev                     
-      run: sudo gem install rouge -v 3.30.0
+      run: sudo apt-get install ruby-dev
 
     - name: Install AsciiDoctor and Rouge
-      run: sudo gem install gem install asciidoctor rouge
+      run: sudo gem install asciidoctor rouge
 
     - name: Setup Hugo                           
       uses: peaceiris/actions-hugo@v2
@@ -36,6 +36,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: akashjindal423/akashjindal423.github.io
+        external_repository: nitinkumartech/nitinkumartech.github.io
         publish_branch: master
         keep_files: true
