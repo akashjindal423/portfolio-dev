@@ -18,6 +18,23 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+ 
+[[experience]]
+  title = "Technical Product Owner "
+  company = "Dyson"
+  company_url = "https://www.dyson.co.uk/"
+  location = "Bristol, United Kingdom"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """ 
+  Responsibilities include:
+  
+  * Scrum Product Ownership
+  * Dyson Link App - Feature contribution and Improvement
+  * Collaboration - UI/UX Designers and Embedded Teams
+  * Quality Assurance
+  * Customer/Market Research
+  """ 
 
 [[experience]]
   title = "Technology Analyst"
@@ -36,25 +53,8 @@ date_format = "Jan 2006"
   * Microsoft Azure Publishing-Subscription Service 
   * Collaborated with Agri-domain consultants (SME) to translate business knowledge to technical user stories
   """
- 
-   [[experience]]
-  title = "Technical Product Owner "
-  company = "DYSON"
-  company_url = "www.dyson.co.uk"
-  location = "Bristol, United Kingdom"
-  date_start = "2022-09-01"
-  date_end = ""
-  description = """ 
-  Responsibilities include:
-  
-  * Scrum Product Ownership
-  * Dyson Link App - Feature contribution and Improvement
-  * Collaboration - UI/UX Designers and Embedded Teams
-  * Quality Assurance
-  * Customer/Market Research
-  """ 
 
-   [[experience]]
+[[experience]]
   title = "Associate Consultant"
   company = "Infosys Ltd"
   company_url = "www.infosys.com"
