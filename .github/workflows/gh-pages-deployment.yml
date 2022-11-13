@@ -31,11 +31,10 @@ jobs:
 
     - name: Build                                
       run: hugo
-
     - name: Deploy                               
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: nitinkumartech/nitinkumartech.github.io
+        external_repository: akashjindal423/akashjindal423.github.io
         publish_branch: master
         keep_files: true
